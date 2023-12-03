@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="مقاطعة"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="بدائل المشروبات الغازية : سيناكولا, فروتز, سبيروسباتيس, سبورت ,سينالكو, كوراج, دابل دير"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="بدائل شاي lipton: العروسة ,الكابوس ,الربيع, احمد تي"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="بدايل نسكويك : كاكاو دريم , ماي واي"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/txt5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="بدائل النسكافيه : مصر كافيه , علي كافيه"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/txt6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text=" بدائل العصائر : جهينة , مزارع دينا, دومتي"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/txt7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text=" بدائل المياه : صافي, سيوة, حياة "
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>

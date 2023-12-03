@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="black">#0C2A2E</color>-->
+   <!-- <color name="white">#FFFFFFFF</color>-->
+    <color name="primary_color">#062023</color>
+    <color name="primary_dark_color">#092E2B</color>
+    <color name="food">#27545A</color>
+    <color name="drinks">#009688</color>
+    <color name="detergents">#183B4A</color>
+    <color name="companies">#2A5679</color>
+
+
+</resources>
